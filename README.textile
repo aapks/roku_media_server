@@ -56,6 +56,7 @@ This is a work in progress. I welcome feedback from your experiences. Let's make
 _all testers_ - Thank you for installing this code and providing feedback and suggestions. You make building this fun!
 
 _el.wubo_
+## [rokify](https://aapks.com/apk/remote-cast-for-roku/)
 
 _hammerpocket_ - mac PIL install guide
 
